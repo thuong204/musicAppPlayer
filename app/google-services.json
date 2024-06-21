@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142064596431",
+    "project_id": "login-register-20a46",
+    "storage_bucket": "login-register-20a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142064596431:android:e1c0023d795a142e4b8eba",
+        "android_client_info": {
+          "package_name": "com.example.musicappplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqI09ZDXSyk_9iWxOW_tv63D3hzqtg2v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
